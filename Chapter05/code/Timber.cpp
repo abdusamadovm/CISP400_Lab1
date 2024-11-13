@@ -20,6 +20,7 @@ side branchPositions[NUM_BRANCHES];
 
 int main()
 {
+	cout << "hello" << endl;
 	// Create a video mode object
 	VideoMode vm(1920, 1080);
 
